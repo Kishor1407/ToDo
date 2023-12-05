@@ -1,6 +1,7 @@
 # A BASIC TO-DO WEBAPP
 
 Developed a basic to-do app that enables a user to add daily tasks.
+
 You can visit the website at https://kishor-todo-list.netlify.app
 
 This to-do web app allows users to add new items to a list, and items added to a list are visible. Also, a user can mark a
